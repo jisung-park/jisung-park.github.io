@@ -1,4 +1,4 @@
 url: "https://jisung-park.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "Dr. Jisung Park" # the name of your site, e.g. ACME Corp.
-description: "Jisung Park's Homepage"
+description: "Assistant Professor @ POSTECH CSE"
