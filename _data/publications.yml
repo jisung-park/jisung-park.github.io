@@ -1,10 +1,207 @@
-featured:
-- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
+- title: 'Flash-Cosmos: In-Flash Bulk Bitwise Operations Using Inherent Computation Capability of NAND Flash Memory'
+  authors: <ins>**Jisung Park**</ins>, Roknoddin Azizibarzoki, Geraldo Francisco de Oliveira Junior, Mohammad Sadrosadati, Rakesh Nadig, David Novo, Juan Gómez Luna, Myungsuk Kim, and Onur Mutlu
+  book: Proceedings of the 55th IEEE/ACM International Sympoisum on Microarchitecture
+  place: Chicago, IL, USA
+  year: 2022
+  month: October
+  venue: MICRO
+  etc: to appear
 
-index:
-- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
-- {name: 'Numerical solutions of thin film equations for polymer flows. Thomas. Salez, Joshua D. McGraw, Sara Cormier, Oliver Bäumchen, Kari Dalnoki-Veress, and Elie Raphaël', url: 'https://static1.squarespace.com/static/5684891d7086d74497aeb71f/t/56ec510d2fe1319543ab6d6f/1458327821946/10.1140-epje-i2012-12114-x.pdf'}
+- title: 'Morpheus: Extending the Last Level Cache in GPU Systems with Idle GPU Coresl’ Resources'
+  authors: Sina Darabi, Mohammad Sadrosadati, Negar Akbarzadeh, Joël Lindegger, S. Mohammad Hosseini, <ins>**Jisung Park**</ins>, Juan Gómez Luna, Onur Mutlu, and Hamid Sarbazi-Azad
+  book: Proceedings of the 55th IEEE/ACM International Sympoisum on Microarchitecture
+  place: Chicago, IL, USA
+  year: 2022
+  month: October
+  venue: MICRO
+  etc: to appear
+
+- title: 'Understanding the RowHammer Vulnerability Under Reduced Wordline Voltage: An Experimental Study Using Real Devices'
+  authors: A. Giray Yaglikci, Haocong Luo, Ataberk Olgun, Geraldo Francisco de Oliveira Junior, Minesh Patel, <ins>**Jisung Park**</ins>, Hasan Hassan, Lois Orosa, Jeremie Kim, and Onur Mutlu
+  book: Proceedings of the 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks
+  place: Baltimore, MD, USA
+  year: 2022
+  month: June
+  venue: DSN
+  etc:
+
+- title: 'Sibyl: Adaptive and Extensible Data Placement in Hybrid Storage Systems using Online Reinforcement Learning'
+  authors: Gagandeep Singh, Rakesh Nadig, <ins>**Jisung Park**</ins>, Rahul Bera, Nastaran Hajinazar, David Novo, Juan Gómez Luna, Sander Stuijk, Henk Corporaal, and Onur Mutlu
+  book: Proceedings of the 49th IEEE/ACM International Symposium on Computer Architecture
+  place: New York, NY, USA
+  year: 2022
+  month: June
+  venue: ISCA
+  etc:
+
+- title: 'DarkGates: A Hybrid Power-Gating Architecture to Mitigate Dark Sides of Dark-Silicon in High Performance Processors'
+  authors: Jawad Haj-Yahya, Jeremie S. Kim, A. Giray Yaglikci, <ins>**Jisung Park**</ins>, Efraim Rotem, Yanos Sazeides, and Onur Mutlu
+  book: Proceedings of the 28th IEEE International Symposium on High-Performance Computer Architecture
+  place: Virtual
+  year: 2022
+  month: April
+  venue: HPCA
+  etc:
+
+- title: 'GenStore: A High-Performance In-Storage Processing System for Genome Sequence Analysis'
+  authors: Nika Mansouri Ghiasi, <ins>**Jisung Park**</ins>, Harun Mustafa, Jeremie S. Kim, Ataberk Olgun, Arvid Gollwitzer, Damla Senol Cali, Can Firtina, Haiyu Mao, Nour Almadhoun Alserr, Rachata Ausavarungnirun, Nandita Vijaykumar, Mohammded Alser, and Onur Mutlu
+  book: Proceedings of the 27th International Conference on Architectural Support for Programming Languages and Operating Systems
+  place: Lausanne, Switzerland
+  year: 2022
+  month: February
+  venue: ASPLOS
+  etc:
+    
+- title: 'DeepSketch: A New Machine Learning-Based Reference Search Technique for Post-Deduplication Delta Compression'
+  authors: <ins>**Jisung Park\***</ins>, Jeonggyun Kim\*, Yeseong Kim, Sungjin Lee, and Onur Mutlu
+  book: Proceedings of the 20th USENIX Conference on File and Storage Technologies
+  place: Santa Clara, CA, USA
+  year: 2022
+  month: February
+  venue: FAST
+  etc: \*co-primary authors
+    
+- title: 'BurstLink: Techniques for Energy-Efficient Conventional and Virtual Reality Video Display'
+  authors: Jawad Haj-Yahya, <ins>**Jisung Park**</ins>, Rahul Bera, Juan Gómez Luna, Efraim Rotem, Taha Shahroodi, Jeremie S. Kim, and Onur Mutlu
+  book: Proceedings of the 54th IEEE/ACM International Symposium on Microarchitecture
+  place: Virtual
+  year: 2021
+  month: October
+  venue: MICRO
+  etc:
+
+- title: 'A Deeper Look into RowHammer’s Sensitivities: Experimental Analysis of Real DRAM Chips and Implications on Future Attacks and Defenses'
+  authors: Lois Orosa\*, A. Giray Yaglikci\*, Haocong Luo, Ataberk Olgun, <ins>**Jisung Park**</ins>, Hasan Hassan, Minesh Patel, Jeremie S. Kim, and Onur Mutlu
+  book: Proceedings of the 54th IEEE/ACM International Symposium on Microarchitecture
+  place: Virtual
+  year: 2021
+  month: October
+  venue: MICRO
+  etc: \*co-primary authors
+
+- title: 'Reducing Solid-State Drive Read Latency by Optimizing Read-Retry'
+  authors: <ins>**Jisung Park**</ins>, Myungsuk Kim, Myoungjun Chun, Lois Orosa, Jihong Kim, and Onur Mutlu
+  book: Proceedings of the 26th International Conference on Architectural Support for Programming Languages and Operating Systems
+  place: Virtual
+  year: 2021
+  month: April
+  venue: ASPLOS
+  etc:
+
+- title: 'BlockHammer: Preventing RowHammer at Low Cost by Blacklisting Rapidly-Accessed DRAM Rows'
+  authors: A. Giray Yaglikci, Minesh Patel, Jeremie S. Kim, Roknoddin Azizibarzoki, Ataberk Olgun, Lois Orosa, Hasan Hassan, <ins>**Jisung Park**</ins>, Konstantinos Kanellopoulos, Taha Shahroodi, Saugata Ghose, and Onur Mutlu
+  book: Proceedings of the 27th IEEE International Symposium on High-Performance Computer Architecture
+  place: Virtual
+  year: 2021
+  month: February
+  venue: HPCA
+  etc:
+
+- title: 'CLR-DRAM: A Low-Cost DRAM Architecture Enabling Dynamic Capacity-Latency Trade-Off'
+  authors: Haocong Luo, Taha Shahroodi, A. Giray Yaglikci, Hasan Hassan, Minesh Patel, Lois Orosa, <ins>**Jisung Park**</ins>, and Onur Mutlu
+  book: Proceedings of the IEEE/ACM 47th International Symposium on Computer Architecture
+  place: Virtual
+  year: 2020
+  month: June
+  venue: ISCA
+  etc:
+
+- title: 'Evanesco: Architectural Support for Efficient Data Sanitization in Modern Flash-based Storage Systems'
+  authors: Myungsuk Kim\*, <ins>**Jisung Park\***</ins>, Geonhee Cho, Yoona Kim, Lois Orosa, Onur Mutlu, and Jihong Kim
+  book: Proceedings of the 25th International Conference on Architectural Support for Programming Languages and Operating Systems
+  place: Virtual
+  year: 2020
+  month: March
+  venue: ASPLOS
+  etc: \*co-primary authors
+
+- title: 'Exploiting Process Similarity of 3D Flash Memory for High Performance SSDs'
+  authors: Youngseop Shim\*, Myungsuk Kim\*, Myoungjun Chun, <ins>**Jisung Park**</ins>, Yoona Kim, and Jihong Kim
+  book: Proceedings of the 52nd IEEE/ACM International Symposium on Microarchitecture
+  place: Columbus, OH, USA
+  year: 2019
+  month: August
+  venue: MICRO
+  etc: \*co-primary authors
+
+- title: 'Improving SSD Performance Using Adaptive Restricted-Copyback Operations'
+  authors: Duwon Hong, Myungsuk Kim, <ins>**Jisung Park**</ins>, Myoungsoo Jung, and Jihong Kim
+  book: Proceedings of the 8th IEEE Non-Volatile Memory System and Applications Symposium
+  place: Hangzhou, China
+  year: 2019
+  month: August
+  venue: NVMSA
+  etc:
+
+- title: 'RansomBlocker: a Low-Overhead Ransomware-proof SSD'
+  authors: <ins>**Jisung Park**</ins>, Youngdon Jung, Jonghoon Won, Minji Kang, Sungjin Lee, and Jihong Kim
+  book: Proceedings of the 56th Design Automation Conference
+  place: Las Vegas, NV, USA
+  year: 2019
+  month: June
+  venue: DAC
+  etc:
+
+- title: 'Improving I/O Performance of Large-page Flash Storage Systems Using Subpage-parallel Reads'
+  authors: <ins>**Jisung Park**</ins>, Myungsuk Kim, Sungjin Lee, and Jihong Kim
+  book: Proceedings of the 7th IEEE Non-Volatile Memory System and Applications Symposium
+  place: Hakodate, Japan
+  year: 2018
+  month: August
+  venue: NVMSA
+  etc:
+
+- title: 'Improving Performance and Lifetime of Large-page NAND Storages Using Erase-free Subpage Programming'
+  authors: Myungsuk Kim, Jaehoon Lee, Sungjin Lee, <ins>**Jisung Park**</ins>, and Jihong Kim
+  book: Proceedings of the 54th Design Automation Conference
+  place: Austin, TX, USA
+  year: 2017
+  month: June
+  venue: DAC
+  etc:
+
+- title: 'DAC: Dedup-Assisted Compression Scheme for Improving the Lifetime of NAND Storage Systems'
+  authors: <ins>**Jisung Park**</ins>, Sungjin Lee, and Jihong Kim
+  book: Proceedings of the Design, Automation and Test in Europe Conference
+  place: Lausanne, Switzeralnd
+  year: 2017
+  month: March
+  venue: DATE
+  etc:
+
+- title: 'Efficient Lifetime Management of SSD-based RAIDs Using Dedup-Assisted Partial Stripe Writes'
+  authors: Taejin Kim, Sungjin Lee, <ins>**Jisung Park**</ins>, and Jihong Kim
+  book: Proceedings of the 5th IEEE Non-Volatile Memory System and Applications Symposium
+  place: Daegu, Republic of Korea
+  year: 2016
+  month: August
+  venue: NVMSA
+  etc:
+
+- title: 'Improving Performance and Lifetime of NAND Storage Systems Using Relaxed Program Sequence'
+  authors: <ins>**Jisung Park**</ins>, Jaeyong Jeong, Sungjin Lee, Youngsun Song, and Jihong Kim
+  book: Proceedings of the 53rd Design Automation Conference
+  place: Austin, TX, USA
+  year: 2016
+  month: June
+  venue: DAC
+  etc: Best Paper Award Nomination
+
+- title: 'An Integrated Approach for Managing the Lifetime of Flash-based SSDs'
+  authors: Sungjin Lee, Taejin Kim, <ins>**Jisung Park**</ins>, and Jihong Kim
+  book: Proceedings of the Design, Automation and Test in Europe Conference
+  place: Grenoble, France
+  year: 2013
+  month: March
+  venue: DATE
+  etc:
+
+- title: 'FlashBench: A Workbench for a Rapid Development of Flash-based Storage Devices'
+  authors: Sungjin Lee, <ins>**Jisung Park**</ins>, and Jihong Kim
+  book: Proceedings of the 23rd IEEE International Symposium on Rapid System Prototyping
+  place: Tampere, Finland
+  year: 2012
+  month: October
+  venue: RSP
+  etc:
+
