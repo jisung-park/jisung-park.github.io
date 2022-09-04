@@ -17,7 +17,7 @@ menu:
 
 social:
 - {icon: 'github', link: 'https://github.com/jisung-park'}
-- {icon: 'facebook', link: 'https://facebook.com/jisungpark.phd'}
+#- {icon: 'facebook', link: 'https://facebook.com/jisungpark.phd'}
 - {icon: 'twitter', link: 'https://twitter.com/jspark_phd'}
 - {icon: 'instagram', link: 'https://instagram.com/jspark.phd'}
 - {icon: 'linkedin', link: 'https://linkedin.com/in/jisung-park'}
