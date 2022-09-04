@@ -1,26 +1,11 @@
 <div class="row g-5 mb-5">
-  <div>
-    <h3 class="fw-bold border-bottom pb-3 mb-5">Contact</h3>
-    {% for contact in site.data.settings.contacts %}
-    <div class="row g-5 mb-5">
-      <div class="col-md-6">
-        <ul>
-          <li>Email: <a href="mailto:{{contact.email}}">{{contact.email}}</a></li>
-          <li>Bibliography: <a href="https://dblp.org/pid/123/{{contact.dblp_id}}.html">DBLP</a>, <a href="https://scholar.google.com/citations?user={{contact.scholar}}&hl=en"> Google Scholar</a></li>
-          <li>Phone: {{contact.phone}}</li>
-          <li>Office: {{contact.office}}</li>
-        </ul>          
-        <h4>{{ contact.name }}</h4>
-        <p>{{ contact.title }} | {{ contact.department }}</p>
-        <p>{{ contact.institution }} | {{ contact.institution_address }}</p>
-        <p>Phone: {{ contact.phone }}</p>
-        <p>Email: {{ contact.email }}</p>
-        <p>Office: {{ contact.office }}</p>
-      </div>
-      <div class="col-md-6">
-        <img src="{{ site.github.url }}/{{ contact.image }}" alt="Contact" width="100%">
-      </div>
-    </div>
-    {% endfor %}
-  </div>
+	<div>
+		<h3 class="fw-bold border-bottom pb-3 mb-5">Contact</h3>
+				<ul>
+					<li>Email: <a href="mailto:{{site.data.settings.email}}">{{site.data.settings.email}}</a></li>
+					<li>Bibliography: <a href="https://dblp.org/pid/123/{{site.data.settings.dblp_id}}.html">DBLP</a>, <a href="https://scholar.google.com/citations?user={{site.data.settings.scholar}}&hl=en"> Google Scholar</a></li>
+					<li>Phone: {{site.data.settings.phone}}</li>
+					<li>Office: {{site.data.settings.office}} {{site.data.settings.institution_address}}</li>
+				</ul>          
+	</div>
 </div>

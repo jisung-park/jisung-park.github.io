@@ -1,0 +1,14 @@
+- id: jisung.park
+  name: Jisung Park
+  email: jisungpark@postech.ac.kr
+  status: present
+  role: Assistant Professor
+  image: assets/images/people/jisung.park.jpg
+  id: Room 125-2, Building 4, POSTECH
+  dblp_id: 2642-1.html
+  scholar: 1qw7AosAAAA
+  educations: [
+    "[2019] Ph.D. in Electrical Engineering and Computer Science. Seoul National University (supervisor: Prof. [Jihong Kim](http://cares.snu.ac.kr/?module=Board&action=SiteBoard&sMode=VIEW_FORM&iBrdNo=1&iBrdContNo=84&sBrdContRe=0&sSearchField=&sSearchValue=&CurrentPage=1)).",
+    "[2011] B.S. in Electical Engineering and Computer Science. Seoul National University."
+  ]
+

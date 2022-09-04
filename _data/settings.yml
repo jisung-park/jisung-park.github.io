@@ -1,19 +1,21 @@
 menu:
+- {name: 'Publications', url: '/publications'}
+- {name: 'CV', url: '/cv'}
 #- {name: 'people', url: '/people'}
-- {name: 'publications', url: '/publications'}
 #- {name: 'courses', url: '/courses'}
-- {name: 'cv', url: '/cv'}
-- {name: 'contact', url: '/contact'}
 
-#people:
-#- {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
-#- {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
-#- {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
+students:
+  - id: gildong.hong
+    name: Gildong Hong
+    email: gdhong@email.com
+    status: present
+    role: Ph.D. Student
+    webpage: gdhong.github.io
 
-#courses:
-#- {name: 'Vector Calculus', url: 'vector-calculus'}
-#- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
-#- {name: 'Stellar Structures', url: 'stellar-structures'}
+courses:
+  - id: CSED702A-01
+    name: Memory and Storage Systems
+    url: 'memory-and-storage-systems'
 
 social:
 - {icon: 'github', link: 'https://github.com/jisung-park'}
@@ -22,5 +24,10 @@ social:
 - {icon: 'instagram', link: 'https://instagram.com/jspark.phd'}
 - {icon: 'linkedin', link: 'https://linkedin.com/in/jisung-park'}
 
-contacts:
-- {name: 'Dr. Jisung Park', title: 'Assistant Professor', department: 'Computer Science and Engineering', institution: 'POSTECH', institution_address: '77, Cheongam-ro, Nam-gu, Pohang-si, Gyeongsangbuk-do, Republic of Korea 37673', phone: '+82-54-279-2263', email: 'jisungpark@postech.ac.kr', office: 'B4 125-2', image: 'assets/img/contact.jpg', dblp_id: '2642-1', scholar: '1qw7AosAAAA'}
+institution_address: '77, Cheongam-ro, Nam-gu, Pohang-si, Gyeongsangbuk-do, Republic of Korea 37673'
+phone: '+82-54-279-2263'
+email: 'jisungpark@postech.ac.kr'
+office: 'B4 125-2'
+image: 'assets/img/contact.jpg'
+dblp_id: '2642-1'
+scholar: '1qw7AosAAAA'
