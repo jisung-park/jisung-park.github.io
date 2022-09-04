@@ -23,4 +23,4 @@ social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/jisung-park'}
 
 contacts:
-- {name: 'Dr. Jisung Park', title: 'Assistant Professor', department: 'Computer Science and Engineering', institution: 'POSTECH', institution_address: '77, Cheongam-ro, Nam-gu, Pohang-si, Gyeongsangbuk-do, Republic of Korea 37673', phone: '+82-54-279-2263', email: 'jisungpark@postech.ac.kr', office: 'B4 125-2', image: 'assets/img/contact.jpg'}
+- {name: 'Dr. Jisung Park', title: 'Assistant Professor', department: 'Computer Science and Engineering', institution: 'POSTECH', institution_address: '77, Cheongam-ro, Nam-gu, Pohang-si, Gyeongsangbuk-do, Republic of Korea 37673', phone: '+82-54-279-2263', email: 'jisungpark@postech.ac.kr', office: 'B4 125-2', image: 'assets/img/contact.jpg', dblp_id: '2642-1', scholar: '1qw7AosAAAA'}
