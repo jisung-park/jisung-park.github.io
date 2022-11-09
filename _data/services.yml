@@ -1,6 +1,7 @@
-- role: Reviewer
-  organization: IEEE/ACM Transcations on Networking (IEEE TNET)
-  period: 2022
+ 
+- role: Technical Program Committee
+  organization: Design Automation Conference
+  period: 2023
 
 - role: Reviewer
   organization: IEEE Transactions on Computer-Aided Design of Intergrated Circuits and Systems (IEEE TCAD)
