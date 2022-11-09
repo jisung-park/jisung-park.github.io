@@ -5,7 +5,7 @@
   year: 2022
   month: October
   venue: MICRO
-  etc: to appear
+  etc: 
 
 - title: 'Morpheus: Extending the Last Level Cache in GPU Systems with Idle GPU Cores’ Resources'
   authors: Sina Darabi, Mohammad Sadrosadati, Negar Akbarzadeh, Joël Lindegger, S. Mohammad Hosseini, <ins>**Jisung Park**</ins>, Juan Gómez Luna, Onur Mutlu, and Hamid Sarbazi-Azad
@@ -14,7 +14,7 @@
   year: 2022
   month: October
   venue: MICRO
-  etc: to appear
+  etc: 
 
 - title: 'Understanding the RowHammer Vulnerability Under Reduced Wordline Voltage: An Experimental Study Using Real Devices'
   authors: A. Giray Yaglikci, Haocong Luo, Ataberk Olgun, Geraldo Francisco de Oliveira Junior, Minesh Patel, <ins>**Jisung Park**</ins>, Hasan Hassan, Lois Orosa, Jeremie Kim, and Onur Mutlu
