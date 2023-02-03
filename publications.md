@@ -8,7 +8,7 @@ title: "Publications"
 {% for paper in site.data.publications %}
 - **[{{paper.venue}} {{paper.year}}]** {{paper.title}}. <br>
 {{paper.authors}}.<br>
-*{{paper.book}}*, {%if paper.place %} {{paper.place}}, {% end if %}{{paper.month}} {{paper.year}}{% if paper.etc %} ({{paper.etc}}){% endif %}.
+*{{paper.book}}*, {%if paper.place %} {{paper.place}}, {% endif %}{{paper.month}} {{paper.year}}{% if paper.etc %} ({{paper.etc}}){% endif %}.
 {% endfor %}
 
 #### Patent
