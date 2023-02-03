@@ -1,6 +1,15 @@
+- title: 'BLEND: A Fast, Memory-Efficient and Accurate Mechanism to Find Fuzzy Seed Matches in Genome Analysis'
+  authors: Can Firtina, <ins>**Jisung Park**</ins>, Mohammed Alser, Jeremie S Kim, Damla Senol Cali, Taha Shahroodi, Nika Mansouri Ghiasi, Gagandeep Singh, Konstantinos Kanellopoulos, Can Alkan, and Onur Mutlu 
+  book: NAR Genomics and Bioinformatics
+  place:
+  year: 2023
+  month: March
+  venue:
+  etc: 
+
 - title: 'Flash-Cosmos: In-Flash Bulk Bitwise Operations Using Inherent Computation Capability of NAND Flash Memory'
   authors: <ins>**Jisung Park**</ins>, Roknoddin Azizibarzoki, Geraldo Francisco de Oliveira Junior, Mohammad Sadrosadati, Rakesh Nadig, David Novo, Juan Gómez Luna, Myungsuk Kim, and Onur Mutlu
-  book: Proceedings of the 55th IEEE/ACM International Sympoisum on Microarchitecture
+  book: Proceedings of the 55th IEEE/ACM International Symposium on Microarchitecture
   place: Chicago, IL, USA
   year: 2022
   month: October
@@ -9,7 +18,7 @@
 
 - title: 'Morpheus: Extending the Last Level Cache in GPU Systems with Idle GPU Cores’ Resources'
   authors: Sina Darabi, Mohammad Sadrosadati, Negar Akbarzadeh, Joël Lindegger, S. Mohammad Hosseini, <ins>**Jisung Park**</ins>, Juan Gómez Luna, Onur Mutlu, and Hamid Sarbazi-Azad
-  book: Proceedings of the 55th IEEE/ACM International Sympoisum on Microarchitecture
+  book: Proceedings of the 55th IEEE/ACM International Symposium on Microarchitecture
   place: Chicago, IL, USA
   year: 2022
   month: October
