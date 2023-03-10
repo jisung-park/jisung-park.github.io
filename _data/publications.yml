@@ -1,3 +1,12 @@
+- title: 'Venice: Improving Solid-State Drive Parallelism at Low Cost via Conflict-Free Accesses'
+  authors: Rakesh Nadig, Mohammad Sadrosadati, Haiyu Mao, Nika Mansouri Chiasi, Arash Tavakool, Jisung Park, Hamid Sarbazi-Azad, Juan Gómez Luna, and Onur Mutlu <ins>**Jisung Park**</ins>, Mohammed Alser, Jeremie S Kim, Damla Senol Cali, Taha Shahroodi, Nika Mansouri Ghiasi, Gagandeep Singh, Konstantinos Kanellopoulos, Can Alkan, and Onur Mutlu 
+  book: Proceedings of the 49th IEEE/ACM International Symposium on Computer Architecture
+  place: Orlando, FL, USA
+  year: 2023
+  month: June
+  venue: ISCA
+  etc: (to appear)
+
 - title: 'BLEND: A Fast, Memory-Efficient and Accurate Mechanism to Find Fuzzy Seed Matches in Genome Analysis'
   authors: Can Firtina, <ins>**Jisung Park**</ins>, Mohammed Alser, Jeremie S Kim, Damla Senol Cali, Taha Shahroodi, Nika Mansouri Ghiasi, Gagandeep Singh, Konstantinos Kanellopoulos, Can Alkan, and Onur Mutlu 
   book: NAR Genomics and Bioinformatics
