@@ -4,16 +4,20 @@
   period: 2023
 
 - role: Reviewer
+  organization: IEEE Transactions on Cloud Computing (IEEE TCC)
+  period: 2023
+
+- role: Reviewer
+  organization: IEEE Transactions on Computers (IEEE TC)
+  period: 2023, 2020, 2019
+
+- role: Reviewer
   organization: IEEE Transactions on Computer-Aided Design of Intergrated Circuits and Systems (IEEE TCAD)
   period: 2022, 2021, 2017
 
 - role: External Reviewer
   organization: European Conference on Computer Systems (EuroSys)
   period: 2022
-
-- role: Reviewer
-  organization: IEEE Transactions on Computers (IEEE TC)
-  period: 2020, 2019
 
 - role: Reviewer
   organization: ACM Transactions on Architecture and Code Optimization (ACM TACO)
