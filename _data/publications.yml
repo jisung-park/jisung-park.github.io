@@ -1,11 +1,11 @@
 - title: 'RiF: Improving Read Performance of Modern SSDs Using an On-Die Early-Retry Engine'
-  authors: Myoungjun Chun, Jaeyong Lee, Myungsuk Kim, <ins>**Jisung Park**</ins>, and Jihong Kim
+  authors: Myoungjun Chun\*, Jaeyong Lee\*, Myungsuk Kim, <ins>**Jisung Park**</ins>, and Jihong Kim
   book: Proceedings of the 30th IEEE International Symposium on High-Performance Computer Architecture
   place: Edinburgh, Scotland
   year: 2024
   month: March
   venue: HPCA
-  etc: to appear
+  etc: \*co-primary authors, to appear
   
 - title: 'Venice: Improving Solid-State Drive Parallelism at Low Cost via Conflict-Free Accesses'
   authors: Rakesh Nadig, Mohammad Sadrosadati, Haiyu Mao, Nika Mansouri Chiasi, Arash Tavakool, <ins>**Jisung Park**</ins>, Hamid Sarbazi-Azad, Juan Gómez Luna, and Onur Mutlu 
