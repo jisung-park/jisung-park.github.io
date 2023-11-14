@@ -1,3 +1,7 @@
+- role: Technical Program Committee
+  organization: Design Automation Conference (DAC)
+  period: 2023, 2024
+
 - role: External Reviewer Committee
   organization: International Symposium on Computer Architecture (ISCA)
   period: 2024
@@ -5,10 +9,6 @@
 - role: External Reviewer
   organization: International Symposium on High-Performance Computer Architecture (HPCA)
   period: 2024
-
-- role: Technical Program Committee
-  organization: Design Automation Conference (DAC)
-  period: 2023
 
 - role: Reviewer
   organization: IEEE Computer Architecture Letters (IEEE CAL)
