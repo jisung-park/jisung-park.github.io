@@ -1,3 +1,12 @@
+- title: 'AERO: Adaptive Erase Operation for Improving Lifetime and Performance of Modern NAND Flash-Based SSDs'
+  authors: Sungjun Cho, Beomjun Kim, Hyunuk Cho, Gyeongseob Seo, Onur Mutlu, Myungsuk Kim, and <ins>**Jisung Park**</ins>
+  book: Proceedings of the 29th International Conference on Architectural Support for Programming Languages and Operating Systems
+  place: San Diego, CA, USA
+  year: 2024
+  month: April
+  venue: ASPLOS
+  etc:
+
 - title: 'RiF: Improving Read Performance of Modern SSDs Using an On-Die Early-Retry Engine'
   authors: Myoungjun Chun\*, Jaeyong Lee\*, Myungsuk Kim, <ins>**Jisung Park**</ins>, and Jihong Kim
   book: Proceedings of the 30th IEEE International Symposium on High-Performance Computer Architecture
@@ -5,7 +14,7 @@
   year: 2024
   month: March
   venue: HPCA
-  etc: \*co-primary authors, to appear
+  etc: \*co-primary authors
   
 - title: 'Venice: Improving Solid-State Drive Parallelism at Low Cost via Conflict-Free Accesses'
   authors: Rakesh Nadig, Mohammad Sadrosadati, Haiyu Mao, Nika Mansouri Chiasi, Arash Tavakool, <ins>**Jisung Park**</ins>, Hamid Sarbazi-Azad, Juan Gómez Luna, and Onur Mutlu 
