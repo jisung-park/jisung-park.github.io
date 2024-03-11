@@ -5,7 +5,7 @@
   year: 2024
   month: April
   venue: ASPLOS
-  etc:
+  etc: to appear
 
 - title: 'RiF: Improving Read Performance of Modern SSDs Using an On-Die Early-Retry Engine'
   authors: Myoungjun Chun\*, Jaeyong Lee\*, Myungsuk Kim, <ins>**Jisung Park**</ins>, and Jihong Kim
