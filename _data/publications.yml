@@ -1,3 +1,12 @@
+- title: 'MegIS: High-Performance and Low-Cost Metagenomic Analysis with In-Storage Processing'
+  authors: Nika Mansouri Ghiasi, Mohammad Sadrosadati, Harun Mustafa, Arvid Gollwitzer, Can Firtina, Julien Eudine, Haiyu Mao, Joël Lindegger, Meryem Banu Cavlak, Mohammed Alser, <ins>**Jisung Park**</ins>, and Onur Mutlu</ins>
+  book: Proceedings of the 49th IEEE/ACM International Symposium on Computer Architecture
+  place: Buenos Aires, Argentina
+  year: 2024
+  month: June
+  venue: ISCA
+  etc: to appear
+  
 - title: 'AERO: Adaptive Erase Operation for Improving Lifetime and Performance of Modern NAND Flash-Based SSDs'
   authors: Sungjun Cho, Beomjun Kim, Hyunuk Cho, Gyeongseob Seo, Onur Mutlu, Myungsuk Kim, and <ins>**Jisung Park**</ins>
   book: Proceedings of the 29th International Conference on Architectural Support for Programming Languages and Operating Systems
