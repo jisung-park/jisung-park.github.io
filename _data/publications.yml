@@ -1,6 +1,6 @@
 - title: 'MegIS: High-Performance and Low-Cost Metagenomic Analysis with In-Storage Processing'
-  authors: Nika Mansouri Ghiasi, Mohammad Sadrosadati, Harun Mustafa, Arvid Gollwitzer, Can Firtina, Julien Eudine, Haiyu Mao, Joël Lindegger, Meryem Banu Cavlak, Mohammed Alser, <ins>**Jisung Park**</ins>, and Onur Mutlu</ins>
-  book: Proceedings of the 49th IEEE/ACM International Symposium on Computer Architecture
+  authors: Nika Mansouri Ghiasi, Mohammad Sadrosadati, Harun Mustafa, Arvid Gollwitzer, Can Firtina, Julien Eudine, Haiyu Mao, Joël Lindegger, Meryem Banu Cavlak, Mohammed Alser, <ins>**Jisung Park**</ins>, and Onur Mutlu
+  book: Proceedings of the 51st IEEE/ACM International Symposium on Computer Architecture
   place: Buenos Aires, Argentina
   year: 2024
   month: June
@@ -27,7 +27,7 @@
   
 - title: 'Venice: Improving Solid-State Drive Parallelism at Low Cost via Conflict-Free Accesses'
   authors: Rakesh Nadig, Mohammad Sadrosadati, Haiyu Mao, Nika Mansouri Chiasi, Arash Tavakool, <ins>**Jisung Park**</ins>, Hamid Sarbazi-Azad, Juan Gómez Luna, and Onur Mutlu 
-  book: Proceedings of the 49th IEEE/ACM International Symposium on Computer Architecture
+  book: Proceedings of the 50th IEEE/ACM International Symposium on Computer Architecture
   place: Orlando, FL, USA
   year: 2023
   month: June
