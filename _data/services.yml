@@ -1,4 +1,8 @@
 - role: Technical Program Committee
+  organization: International Symposium on High-Performance Computer Architecture (HPCA)
+  period: 2025
+  
+- role: Technical Program Committee
   organization: Design Automation Conference (DAC)
   period: 2023, 2024
 
@@ -9,6 +13,10 @@
 - role: External Reviewer
   organization: International Symposium on High-Performance Computer Architecture (HPCA)
   period: 2024
+
+- role: Reviewer
+  organization: ACM Transactions on Storage (ACM TOS)
+  period: 2023
 
 - role: Reviewer
   organization: IEEE Computer Architecture Letters (IEEE CAL)
