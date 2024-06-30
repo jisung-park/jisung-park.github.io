@@ -1,3 +1,21 @@
+- title: 'NORNS: Three Guides for Efficient Automatic Post-Fabrication Optimization of Modern NAND Flash Memory'
+  authors: Earl Kim, Hyunuk Cho, Sungjun Cho, Myungsuk Kim, <ins>**Jisung Park**</ins>, Jaeyong Jeong, Eunkyoung Kim and Sunghoi Hur
+  book: Proceedings of the 43rd ACM/IEEE International Conference on Computer-Aided Design
+  place: Newark, NJ, USA
+  year: 2024
+  month: October
+  venue: ICCAD
+  etc: to appear
+
+- title: 'ReadGuard: Integrated SSD Management for Priority-Aware Read Performance Differentiation'
+  authors: Myoungjun Chun, Myungsuk Kim, Dusol Lee, <ins>**Jisung Park**</ins>, and Jihong Kim
+  book: ACM Transactions on Storage
+  place:
+  year: 2024
+  month: June
+  venue: ACM TOS
+  etc: to appear
+  
 - title: 'MegIS: High-Performance, Energy-Efficient, and Low-Cost Metagenomic Analysis with In-Storage Processing'
   authors: Nika Mansouri Ghiasi, Mohammad Sadrosadati, Harun Mustafa, Arvid Gollwitzer, Can Firtina, Julien Eudine, Haiyu Mao, Joël Lindegger, Meryem Banu Cavlak, Mohammed Alser, <ins>**Jisung Park**</ins>, and Onur Mutlu
   book: Proceedings of the 51st IEEE/ACM International Symposium on Computer Architecture
@@ -5,7 +23,7 @@
   year: 2024
   month: June
   venue: ISCA
-  etc: to appear
+  etc: 
   
 - title: 'AERO: Adaptive Erase Operation for Improving Lifetime and Performance of Modern NAND Flash-Based SSDs'
   authors: Sungjun Cho, Beomjun Kim, Hyunuk Cho, Gyeongseob Seo, Onur Mutlu, Myungsuk Kim, and <ins>**Jisung Park**</ins>
