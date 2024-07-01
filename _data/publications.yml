@@ -248,7 +248,7 @@
   year: 2016
   month: June
   venue: DAC
-  etc: Best Paper Award Nomination
+  etc: <b><font color="red">Best Paper Award Nomination</font></b>
 
 - title: 'An Integrated Approach for Managing the Lifetime of Flash-based SSDs'
   authors: Sungjin Lee, Taejin Kim, <ins>**Jisung Park**</ins>, and Jihong Kim
