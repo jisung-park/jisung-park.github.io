@@ -1,6 +1,21 @@
 - role: Technical Program Committee
   organization: International Symposium on High-Performance Computer Architecture (HPCA)
   period: 2025
+- role: Publicity & Social Media Co-Chair
+  organization: International Symposium on Microarchitecture (MICRO)
+  period: 2025
+
+- role: Program Committee
+  organization: International Symposium on Microarchitecture (MICRO)
+  period: 2025
+
+- role: Program Committee
+  organization: ACM Workshop on Hot Topics in Storage and File Systems (HotStorage)
+  period: 2025
+  
+- role: Progam Committee
+  organization: International Symposium on High-Performance Computer Architecture (HPCA)
+  period: 2025
   
 - role: Technical Program Committee
   organization: Design, Automation and Test in Europe Conference (DATE)
@@ -8,7 +23,7 @@
   
 - role: Technical Program Committee
   organization: Design Automation Conference (DAC)
-  period: 2023, 2024, 2025
+  period: 2023-2025
 
 - role: External Reviewer Committee
   organization: International Symposium on Computer Architecture (ISCA)
@@ -20,7 +35,7 @@
 
 - role: Reviewer
   organization: ACM Transactions on Storage (ACM TOS)
-  period: 2023
+  period: 2023-2025
 
 - role: Reviewer
   organization: IEEE Computer Architecture Letters (IEEE CAL)
