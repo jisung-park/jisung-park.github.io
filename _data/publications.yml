@@ -1,3 +1,12 @@
+- title: 'REIS: A High-Performance and Energy-Efficient Retrieval System with In-Storage Processing'
+  authors: Kangqi Chen, Rakesh Nadig, Nika Mansouri Ghiasi, Yu Liang, Haiyu Mao, <ins>**Jisung Park**</ins>, Manos Frouzakis, Mohammad Sadrosadati, and Onur Mutlu
+  book: Proceedings of the 52nd IEEE/ACM International Symposium on Computer Architecture
+  place: Tokyo, Japan
+  year: 2025
+  month: June
+  venue: ISCA
+  etc: 
+  
 - title: 'STRAW: A Stress-Aware WL-Based Read Reclaim Technique for High-Density NAND Flash-Based SSDs'
   authors: Myoungjun Chun, Jaeyong Lee, Inhyuk Choi, <ins>**Jisung Park**</ins>, Myungsuk Kim, Jihong Kim
   book: IEEE Computer Architecture Letters
