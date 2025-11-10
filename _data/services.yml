@@ -7,6 +7,10 @@
   period: 2026, 2025
 
 - role: Technical Program Committee
+  organization: Design Automation Conference (DAC)
+  period: 2023-2026
+
+- role: Technical Program Committee
   organization: Design, Automation and Test in Europe Conference (DATE)
   period: 2026, 2025
 
@@ -26,10 +30,6 @@
   organization: ACM Workshop on Hot Topics in Storage and File Systems (HotStorage)
   period: 2025
   
-- role: Technical Program Committee
-  organization: Design Automation Conference (DAC)
-  period: 2023-2025
-
 - role: Reviewer
   organization: ACM Transactions on Storage (ACM TOS)
   period: 2023-2025
