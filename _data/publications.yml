@@ -1,3 +1,12 @@
+- title: 'SAGe: A Lightweight Algorithm-Architecture Co-Design for Mitigating the Data Preparation Bottleneck in Large-Scale Genome Sequence Analysis'
+  authors: Nika Mansouri Ghiasi, Talu Güloglu, Harun Mustafa, Can Firtina, Konstantina Koliogeorgi, Konstantinos Kanellopoulos, Haiyu Mao, Rakesh Nadig, Mohammad Sadrosadati, <ins>**Jisung Park**</ins>, and Onur Mutlu
+  book: Proceedings of the 32nd IEEE International Symposium on High-Performance Computer Architecture
+  place: Sydney, Australia
+  year: 2026
+  month: January
+  venue: HPCA
+  etc: to appear
+
 - title: 'CrossBit: Bitwise Computing in NAND Flash Memory with Inter-Bitline Data Communication'
   authors: Hyunjin Kim, Seunghwan Song, Sukhyun Choi, Jeongin Choe, Sanghyeok Han, <ins>**Jisung Park**</ins>, Jinho Lee, and JaeJoon Kim
   book: Proceedings of the 58th IEEE/ACM International Symposium on Microarchitecture
@@ -5,7 +14,7 @@
   year: 2025
   month: October
   venue: MICRO
-  etc: (to appear) 
+  etc:
   
 - title: 'REIS: A High-Performance and Energy-Efficient Retrieval System with In-Storage Processing'
   authors: Kangqi Chen, Rakesh Nadig, Nika Mansouri Ghiasi, Yu Liang, Haiyu Mao, <ins>**Jisung Park**</ins>, Manos Frouzakis, Mohammad Sadrosadati, and Onur Mutlu
