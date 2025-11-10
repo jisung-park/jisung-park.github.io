@@ -1,4 +1,8 @@
 - role: Program Committee
+  organization: International Symposium on Computer Architecture (ISCA)
+  period: 2026
+
+- role: Program Committee
   organization: International Symposium on High-Performance Computer Architecture (HPCA)
   period: 2026, 2025
 
