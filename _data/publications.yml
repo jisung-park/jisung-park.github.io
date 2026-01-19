@@ -1,3 +1,39 @@
+- title: 'Experimental Study on System-Level Performance Impact of Read Disturbance in Modern SSDs'
+  authors: Yonggon Park, Hyunuk Cho, Onur Mutlu, Sungjin Lee, and Jisung Park
+  book: Proceedings of the 2026 ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems
+  place: Ann Arbor, MI, USA
+  year: 2026
+  month: March
+  venue: SIGMETRICS
+  etc: to appear
+  
+- title: 'HILOS: A Cost-Effective Near-Storage Processing Solution for Offline Inference of Long-Context LLMs'
+  authors: Hongsun Jang, Jaeyong Song, Changmin Shin, Si Ung Noh, Jaewon Jung, <ins>**Jisung Park**</ins>, and Jinho Lee
+  book: Proceedings of the 31st International Conference on Architectural Support for Programming Languages and Operating Systems
+  place: Pittsburgh, PA, USA
+  year: 2026
+  month: March
+  venue: ASPLOS
+  etc: to appear
+  
+- title: 'STRAW: Stress-Aware WL-Based Read Disturbance Management for High-Density NAND Flash Memory'
+  authors: Myoungjun Chun, Jaeyong Lee, <ins>**Jisung Park**</ins>, Myungsuk Kim, and Jihong Kim
+  book: Proceedings of the 31st International Conference on Architectural Support for Programming Languages and Operating Systems
+  place: Pittsburgh, PA, USA
+  year: 2026
+  month: March
+  venue: ASPLOS
+  etc: to appear
+
+- title: 'DOGI: Data Placement with Oracle-Guided Insights for Log-Structured Systems'
+  authors: Jeeyun Kim, Seonggyun Oh, Jungwoo Kim, <ins>**Jisung Park**</ins>, Jaeho Kim, Sungjin Lee, and Sam H. Noh
+  book: Proceedings of the 24th USENIX Conference on File and Storage Technologies
+  place: Santa Clara, CA, USA
+  year: 2026
+  month: February
+  venue: FAST
+  etc: to appear
+
 - title: 'SAGe: A Lightweight Algorithm-Architecture Co-Design for Mitigating the Data Preparation Bottleneck in Large-Scale Genome Sequence Analysis'
   authors: Nika Mansouri Ghiasi, Talu Güloglu, Harun Mustafa, Can Firtina, Konstantina Koliogeorgi, Konstantinos Kanellopoulos, Haiyu Mao, Rakesh Nadig, Mohammad Sadrosadati, <ins>**Jisung Park**</ins>, and Onur Mutlu
   book: Proceedings of the 32nd IEEE International Symposium on High-Performance Computer Architecture
