@@ -32,7 +32,25 @@
   year: 2026
   month: June
   venue: ICDCS
-  etc: to appear
+  etc:
+  
+- title: 'Exploring High-Bandwidth Flash for Modern LLM Inference: Opportunities and Challenges'
+  authors: Dowon Son, Yonggon Park, Hyunuk Cho, Hyungkyu Ham, Onur Mutlu, Sungjin Lee, Gwangsun Kim, and <ins>**Jisung Park**</ins>
+  book: IEEE Computer Architecture Letters
+  place:
+  year: 2026
+  month: June
+  venue: IEEE CAL
+  etc: early access
+
+- title: 'RevaMp3D: Architecting the Processor Core and Cache Hierarchy for Systems with Monolithically-Integrated Logic and Memory'
+  authors: Nika Mansouri Ghiasi, Mohammad Sadrosadati, Geraldo Oliveira, Konstantinos Kanellopoulos, Rachata Ausavarungnirun, Juan Gómez Luna, João Ferreira, Jeremie S. Kim, Christina Giannoula, Nandita Vijaykumar, <ins>**Jisung Park**</ins>, and Onur Mutlu
+  book: ACM Transactions on Architecture and Code Optimization
+  place:
+  year: 2026
+  month: June
+  venue: ACM TACO
+  etc: early access
 
 - title: 'Experimental Study on System-Level Performance Impact of Read Disturbance in Modern SSDs'
   authors: Yonggon Park, Hyunuk Cho, Onur Mutlu, Sungjin Lee, and <ins>**Jisung Park**</ins>
