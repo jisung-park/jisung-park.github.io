@@ -5,7 +5,7 @@
   year: 2026
   month: August
   venue: ISLPED
-  etc: to appear
+  etc:
   
 - title: 'Harmonia: Enhancing Data Placement and Migration in Hybrid Storage Systems via Multi-Agent Reinforcement Learning'
   authors: Rakesh Nadig, Vamanan Arulchelvan, Rahul Bera, Taha Shahroodi, Gagandeep Singh, Andreas Kakolyris, Ismail Emir Yuksel, Mohammad Sadrosadati, <ins>**Jisung Park**</ins>, and Onur Mutlu
@@ -14,7 +14,7 @@
   year: 2026
   month: July
   venue: ICS
-  etc: to appear
+  etc:
   
 - title: 'GRAINS: Enabling High-Performance and Low-Cost Graph-Based Genome Analysis via Storage-Aware Algorithm-Architecture Co-Design'
   authors: Nika Mansouri Ghiasi, Harun Mustafa, Talu Güloglu, Rakesh Nadig, Konstantina Koliogeorgi, Susana Rebolledo Ruiz, Marc Rautmann, Furkan Eris, Mohammad Sadrosadati, <ins>**Jisung Park**</ins>, and Onur Mutlu
@@ -23,7 +23,7 @@
   year: 2026
   month: June
   venue: ISCA
-  etc: to appear
+  etc:
 
 - title: 'AURORA-Q: Asynchronous Unified Resource Optimizer for Quantum Simulation on HPC System'
   authors: Changjong Kim, Alex Sim, Kesheng Wu, Houjun Tang, Yongseok Son, <ins>**Jisung Park**</ins>, and Sunggon Kim
@@ -41,7 +41,7 @@
   year: 2026
   month: June
   venue: IEEE CAL
-  etc: early access
+  etc:
 
 - title: 'RevaMp3D: Architecting the Processor Core and Cache Hierarchy for Systems with Monolithically-Integrated Logic and Memory'
   authors: Nika Mansouri Ghiasi, Mohammad Sadrosadati, Geraldo Oliveira, Konstantinos Kanellopoulos, Rachata Ausavarungnirun, Juan Gómez Luna, João Ferreira, Jeremie S. Kim, Christina Giannoula, Nandita Vijaykumar, <ins>**Jisung Park**</ins>, and Onur Mutlu
@@ -50,7 +50,7 @@
   year: 2026
   month: June
   venue: ACM TACO
-  etc: early access
+  etc:
 
 - title: 'Experimental Study on System-Level Performance Impact of Read Disturbance in Modern SSDs'
   authors: Yonggon Park, Hyunuk Cho, Onur Mutlu, Sungjin Lee, and <ins>**Jisung Park**</ins>
